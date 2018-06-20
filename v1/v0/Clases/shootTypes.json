@@ -1,0 +1,10 @@
+{
+  "basic": {
+    "dmg": 20,
+    "keycode": 32,
+    "vel": 15,
+    "r": 10,
+    "range": 2000,
+    "fireRate": 5
+  }
+}
